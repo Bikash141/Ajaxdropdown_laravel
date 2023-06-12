@@ -13,7 +13,7 @@
     <div class="container mt-4">
         <div class="row justify-content-center">
             <div class="col-md-5">
-                <h2 class="mb-4">Laravel AJAX Dependent Country State City Dropdown Example</h2>
+                <h2 class="mb-4">Laravel AJAX Dependent </h2>
                 <form>
                     <div class="form-group mb-3">
                         <select  id="country-dd" class="form-control">
